@@ -1,0 +1,28 @@
+INSERT INTO Departamento VALUES
+(1 , "Producao" , "Porta 3 coredor 4"),
+(2 , "Desenvolvimento" , "Corredor 10"),
+(3 , "Vendas" , "Sala principal 1"),
+(4 , "Compras" , "Sala comercial"),
+(5 , "Analise" , "Sala ADM");
+
+INSERT INTO Colaborador VALUES
+(1111111 , " Jean" , "jean_as@Gmail.com" , "Chefe" , "2022-10-10", 1),
+(2222222 , " Carlos" , "Carloss@Gmail.com" , "Vendedora" , "2012-8-5", 3),
+(3333333 , " Maria" , "MArimari@Gmail.com" , "Compradora" , "2022-3-4", 4),
+(4444444 , " Jaime" , "Jaimesas@Gmail.com" , "Dev" , "2020-5-5", 2),
+(5555555 , " Joao" , "Joooao@Gmail.com" , "PRoducao" , "2024-11-11", 1),
+(6666666 , " Tercilio" , "Tilo@Gmail.com" , "Peao" , "2025-10-10", 5),
+(7777777 , " Maraiana" , "Marianinha@Gmail.com" , "Gerente" , "2018-1-1", 5);
+
+INSERT INTO Categoria VALUES
+(1, "Computação"),
+(2, "Rede"),
+(3, "Impressão"),
+(4, "Mobilidade"),
+(5, "Servidores");
+
+
+INSERT INTO Fornecedor VALUES
+(12121212 , "Intel" , ""),
+INSERT INTO Departamento VALUES
+INSERT INTO Departamento VALUES
